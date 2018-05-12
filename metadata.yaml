@@ -1,0 +1,25 @@
+_repo: Gardening-for-Little-Girls_39993
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39993-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Foster, Olive Hyde
+    gutenberg_agent_id: '38845'
+    url: http://www.gutenberg.org/2009/agents/38845
+description: ''
+gutenberg_issued: '2012-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39993'
+  lccn: '17017293'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'Gardening'
+title: Gardening for Little Girls
+url: http://www.gutenberg.org/ebooks/39993
